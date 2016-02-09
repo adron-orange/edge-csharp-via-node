@@ -1,0 +1,27 @@
+{
+  "name": "edge-csharp-via-node",
+  "version": "1.0.0",
+  "description": "Getting C# calls from Node.js JavaScript to execute.",
+  "main": "cli.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adron/edge-csharp-via-node.git"
+  },
+  "keywords": [
+    "edge.js",
+    "edgejs",
+    "edge",
+    "node",
+    "c#",
+    "csharp"
+  ],
+  "author": "Adron Hall",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Adron/edge-csharp-via-node/issues"
+  },
+  "homepage": "https://github.com/Adron/edge-csharp-via-node#readme"
+}
